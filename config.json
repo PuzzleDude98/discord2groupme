@@ -1,8 +1,8 @@
 {
   "check_my_ip" : "true",
-  "discord_token" : "",
-  "discord_channel_id" : "",
-  "discord_webhook_url" : "",
-  "groupme_token" : "",
-  "groupme_bot_id" : ""
+  "discord_token" : "OTI2MzA2MzMwNDgwODczNTEy.Yc5v_w.7T6v4aR968N7vfxDyTOkGmGLJzQ",
+  "discord_channel_id" : "926305577431363664",
+  "discord_webhook_url" : "https://discord.com/api/webhooks/926305762794430514/WujL8DaLqe2G1IJ_CBl1qee5fzbAPxr3u9ykh1S-6HigJzwGpeGyxuw2yY0jBgqi0iaJ",
+  "groupme_token" : "YYonf398mDhqKGOCUifYKItS4yrMSqXX7PdfVAwf",
+  "groupme_bot_id" : "d56697984de9c2ca8229e1fc8a"
 }
